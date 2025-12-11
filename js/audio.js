@@ -5,7 +5,7 @@ const musicList = [
     {
         title: "喜帖街",
         artist: "25216950219吴泽森",
-        src: "MP3/music0.mp3",
+        src: "mp3/music0.mp3",
         cover: "./img/record0.jpg",
         bg: "./img/bg0.png",
         video: "./video/video0.mp4"
