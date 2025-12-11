@@ -13,7 +13,7 @@ const musicList = [
     {
         title: "夕阳无限好",
         artist: "陈奕迅",
-        src: "mp3/music1.mp3",
+        src: "WUZeSen.MusicPlayer.github.io/mp3/music1.mp3",
         cover: "./img/record1.jpg",
         bg: "./img/bg1.png",
         video: "./video/video1.mp4"
