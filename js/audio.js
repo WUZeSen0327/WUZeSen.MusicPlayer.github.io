@@ -13,7 +13,7 @@ const musicList = [
     {
         title: "夕阳无限好",
         artist: "陈奕迅",
-        src: "MP3/music1.mp3",
+        src: "mp3/music1.mp3",
         cover: "./img/record1.jpg",
         bg: "./img/bg1.png",
         video: "./video/video1.mp4"
@@ -21,7 +21,7 @@ const musicList = [
     {
         title: "破晓",
         artist: "陈奕迅",
-        src: "MP3/music2.mp3",
+        src: "mp3/music2.mp3",
         cover: "./img/record2.jpg",
         bg: "./img/bg2.png",
         video: "./video/video2.mp4"
@@ -29,7 +29,7 @@ const musicList = [
     {
         title: "六月",
         artist: "陈奕迅",
-        src: "MP4/video3.mp4",
+        src: "mp4/video3.mp4",
         cover: "./img/record3.jpg",
         bg: "./img/bg3.png",
         video: "./video/video3.mp4"
